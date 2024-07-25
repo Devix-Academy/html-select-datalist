@@ -1,4 +1,4 @@
-# Ejercicios para poner a prueba tus conocimientos de la lección: Inputs
+# Ejercicios para poner a prueba tus conocimientos de la lección: Select y Datalist
 
 **¡Desafía tus habilidades HTML!**
 

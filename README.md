@@ -33,7 +33,7 @@ Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados 
 ### Ejercicio # 1: Selector de país simple
 Crea una página HTML con un título (h1) "Selecciona tu país" y un formulario con un elemento select para elegir un país. Incluye al menos 5 opciones de países.
 
->> Pista: Recuerda usar `<label>` para cada campo.
+> Pista: Recuerda usar `<label>` para cada campo.
 
 ### Ejercicio # 2: Formulario de preferencias musicales
 Diseña un formulario que incluya un campo de texto con datalist para el género musical favorito y un select para el artista preferido. Añade un párrafo (p) explicativo y una imagen (img) relacionada con la música.
@@ -67,7 +67,7 @@ Crea un formulario complejo que incluya:
 * Textarea para biografía
 * Usa encabezados (h2, h3) para separar secciones y añade validación HTML5 donde sea apropiado.
 
->> Pista: Investiga ¿Qué es el elemento `<optgroup>`? y utilizalo dentro del `<select>` para agrupar países por continente. Para el select múltiple, usa el atributo multiple.
+> Pista: Investiga ¿Qué es el elemento `<optgroup>`? y utilizalo dentro del `<select>` para agrupar países por continente. Para el select múltiple, usa el atributo multiple.
 
 **¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
 
